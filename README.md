@@ -1,0 +1,1 @@
+# standards-spring-boot-starters
